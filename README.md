@@ -1,6 +1,6 @@
 ### Hi, I’m Merlin 👋
 
-I build digital products that work for humans and businesses.
+I'm passionate about building the teams, processes and software that create amazing digital products.
 
 I have a T-shaped skill set with a deep understanding of the frontend stack and a broad understanding of product design and UX, backend engineering, devops and infrastructure, project and people management, business operations, security and compliance.
 
